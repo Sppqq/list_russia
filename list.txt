@@ -1,0 +1,211 @@
+нови
+*steamdb*
+*notcoin.org*
+*tiktok*
+*betterstack.com*
+**securitytrails**
+**hybrid-analysis***
+**sponsor.ajay.app**
+*screenpi*
+**spotify**
+*vencord.dev*
+**copilot**
+**adguard-vpn**
+**zapier**
+**grok**
+
+уже
+*makersuite.google.com*
+**.google.com
+*tiktok*
+**openai**
+**chatgpt**
+**oaistatic**
+**oaiusercontent**
+*claude*
+*anthropic*
+*croxyproxy*
+*instagram*
+*twitter*
+*x.com*
+*rutracker*
+***621***
+
+выключеные
+*drive**** (disabled)
+*colab* (disabled)
+**drive. (disabled)
+**maps** (disabled)
+*roboflow* (disabled)
+*myaccount** (disabled)
+**accounts.google.com* (disabled)
+**docs.*** (disabled)
+***mosreg.ru** (disabled)
+**dropbox** (disabled)
+
+дс
+*.discord.app:* (disabled)
+*.discord.com (disabled)
+*.discord.com:* (disabled)
+*.discord.gg (disabled)
+*.discord.gg:* (disabled)
+*.discord.media (disabled)
+*.discordapp.com (disabled)
+*.discordapp.com:* (disabled)
+*.discordapp.net (disabled)
+*.discordapp.net:* (disabled)
+airhorn.solutions (disabled)
+airhornbot.com (disabled)
+bigbeans.solutions (disabled)
+cdn.discordapp.com (disabled)
+dis.gd (disabled)
+discord-activities.com (disabled)
+discord-attachments-uploads-prd.storage.googleapis.com (disabled)
+discord.app (disabled)
+discord.co (disabled)
+discord.com (disabled)
+discord.design (disabled)
+discord.dev (disabled)
+discord.gg (disabled)
+discord.gift (disabled)
+discord.gifts (disabled)
+discord.media (disabled)
+discord.new (disabled)
+discord.store (disabled)
+discord.tools (disabled)
+discordactivities.com (disabled)
+discordapp.com (disabled)
+discordapp.io (disabled)
+discordapp.net (disabled)
+discordcdn.com (disabled)
+discordmerch.com (disabled)
+discordpartygames.com (disabled)
+discordsays.com (disabled)
+discordsez.com (disabled)
+discordstatus.com (disabled)
+gateway.discord.gg (disabled)
+hammerandchisel.ssl.zendesk.com (disabled)
+images-ext-1.discordapp.net (disabled)
+media.discordapp.net (disabled)
+watchanimeattheoffice.com (disabled)
+www.discord.app (disabled)
+www.discord.com (disabled)
+
+тикток
+v16a.tiktokcdn.com
+p16-tiktokcdn-com.akamaized.net
+log.tiktokv.com
+ib.tiktokv.com
+api-h2.tiktokv.com
+v16m.tiktokcdn.com
+api.tiktokv.com
+v19.tiktokcdn.com
+mon.musical.ly
+api2-16-h2.musical.ly
+api2.musical.ly
+log2.musical.ly
+api2-21-h2.musical.ly
+api-h2.tiktokv.com
+api.tiktokv.com
+api21-h2.tiktokv.com
+ib.tiktokv.com
+m.tiktok.com
+muscdn.com
+tiktokcdn.com
+tiktokcdn.com.c.worldfcdn.com
+(^|\.)muscdn\.com$
+(^|\.)musical\.ly$
+tiktok.com
+*.tiktok.com
+www.tiktok.com
+api-h2.tiktokv.com
+api21-h2.tiktokv.com
+ns-440.awsdns-55.com
+ns-722.awsdns-26.net
+ns-1475.awsdns-56.org
+ns-1574.awsdns-04.co.uk
+tiktokcdn-com.akamaized.net
+
+ютуб
+1e100.net (disabled)
+ggpht.com (disabled)
+googleusercontent.com (disabled)
+googlevideo.com (disabled)
+gstatic.com (disabled)
+gvt1.com (disabled)
+l.google.com (disabled)
+m.youtube.com (disabled)
+nhacmp3youtube.com (disabled)
+play.google.com (disabled)
+wide-youtube.l.google.com (disabled)
+www.youtube.com (disabled)
+youtu.be (disabled)
+youtube-nocookie.com (disabled)
+youtube-studio.com (disabled)
+youtube-ui.l.google.com (disabled)
+youtube.be (disabled)
+youtube.ca (disabled)
+youtube.co (disabled)
+youtube.co.in (disabled)
+youtube.co.uk (disabled)
+youtube.com (disabled)
+youtube.com.au (disabled)
+youtube.com.br (disabled)
+youtube.com.mx (disabled)
+youtube.com.tr (disabled)
+youtube.com.ua (disabled)
+youtube.de (disabled)
+youtube.es (disabled)
+youtube.fr (disabled)
+youtube.googleapis.com (disabled)
+youtube.jp (disabled)
+youtube.nl (disabled)
+youtube.pl (disabled)
+youtube.pt (disabled)
+youtube.ru (disabled)
+youtubeapi.com (disabled)
+youtubechildren.com (disabled)
+youtubecommunity.com (disabled)
+youtubecreators.com (disabled)
+youtubeeducation.com (disabled)
+youtubeembeddedplayer.googleapis.com (disabled)
+youtubei.googleapis.com (disabled)
+youtubekids.com (disabled)
+yt-video-upload.l.google.com (disabled)
+yt.be (disabled)
+yt3.ggpht.com (disabled)
+ytimg.com (disabled)
+10tv.app (disabled)
+7tv.app (disabled)
+7tv.gg (disabled)
+7tv.io (disabled)
+api.7tv.app (disabled)
+cdn.7tv.app (disabled)
+cdn.7tv.gg (disabled)
+emotes.7tv.app (disabled)
+events.7tv.app (disabled)
+static.7tv.app (disabled)
+betterttv.net (disabled)
+frankerfacez.com (disabled)
+cdn.betterttv.net (disabled)
+cdn2.frankerfacez.com (disabled)
+cdn.frankerfacez.com (disabled)
+api.ffzap.com (disabled)
+api.frankerfacez.com (disabled)
+*.googlevideo.com (disabled)
+
+7tv
+frankerfacez.com (disabled)
+cdn.betterttv.net (disabled)
+cdn.frankerfacez.com (disabled)
+betterttv.com (disabled)
+betterttv.net (disabled)
+*.frankerfacez.com (disabled)
+betterttv.net (disabled)
+frankerfacez.com (disabled)
+cdn.betterttv.net (disabled)
+cdn2.frankerfacez.com (disabled)
+cdn.frankerfacez.com (disabled)
+api.ffzap.com (disabled)
+api.frankerfacez.com (disabled)
+cloudflare-ech.com (disabled)
